@@ -1,7 +1,7 @@
 # customBLAS
 
 my own mini implementation of the BLAS library in C++ 23 to train a custom CNN, as part of the 
-book [id]: [https://neuralnetworksanddeeplearning.com/index.html] "neuralnetworksanddeeplearning" by Michael Nielsen.
+book "neuralnetworksanddeeplearning" by Michael Nielsen.
 
 the library consists of Vector and Matrix implementation using the std::vector
 C++ library, and is directly inherited of its properties.
