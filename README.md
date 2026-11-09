@@ -10,6 +10,7 @@ the BLAS library fully supports normalization and other standard linalg methods
 and is strictly bound to float datatype.
 
 ## structure
+```
 |
 ├── include
 │   ├── blas_output.hpp
@@ -20,14 +21,21 @@ and is strictly bound to float datatype.
     ├── main.cpp
     ├── Matrix.cpp
     └── Vector.cpp
+```
 
 note: build/ and bin/ are purposefull not included
 
 ## Use
 clone the repository
+```
+git clone <repolink>
+```
 modify the src/main.cpp file to your liking
-run 'make'
 
+run 'make'
+```
+make
+```
 
 ## TODO
 [] Activation functions
