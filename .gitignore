@@ -1,3 +1,7 @@
 .clangd
-main
-main.cpp
+
+build/
+bin/
+
+.DS_Store
+Thumbs.db
