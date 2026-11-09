@@ -1,1 +1,3 @@
-cnn_via_eigen/
+.clangd
+main
+main.cpp
